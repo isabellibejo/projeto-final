@@ -1,0 +1,132 @@
+{
+    "itens": [
+      {
+        "tipo": "Femenina casual",
+        "marca": "Shein",
+        "preco": "R$ 22,00",
+        "estilo": "casual"
+      },
+      {
+        "tipo": "Femenina",
+        "marca": "Shein",
+        "preco": "R$ 50,00",
+        "estilo": "esportiva"
+      },
+      {
+        "tipo": "vestido",
+        "marca": "Shein",
+        "preco": "R$ 76,00",
+        "estilo": "casual"
+      },
+
+      {
+        "tipo": " masculina",
+        "marca": "Shein",
+        "preco": "R$ 51,40",
+        "estilo": "casual"
+      },
+
+
+      {
+        "tipo": "masculina",
+        "marca": "Shein",
+        "preco": "R$ 45,90",
+        "estilo": "esportiva"
+      },
+
+      
+
+      {
+        "tipo": "calça masculina",
+        "marca": "Shein",
+        "preco": "R$ 95,00",
+        "estilo": "casual"
+      },
+
+      {
+        "tipo": "tenis femenino",
+        "marca": "Shein",
+        "preco": "R$ 150,00",
+        "estilo": "casual"
+      },
+
+
+      {
+        "tipo": "tenis masculino",
+        "marca": "Shein",
+        "preco": "R$ 193,00",
+        "estilo": "esportiva"
+      },
+
+      {
+        "tipo": "tenis",
+        "marca": "Shein",
+        "preco": "R$ 89,90",
+        "estilo": "casual"
+      },
+
+      
+      {
+        "tipo": "Femenina",
+        "marca": "Shein",
+        "preco": "R$ 48,97",
+        "estilo": "esportiva"
+      },
+
+      {
+        "tipo": "vestido",
+        "marca": "Shein",
+        "preco": "R$ 94,90",
+        "estilo": "casual"
+      },
+
+      {
+        "tipo": "femenina",
+        "marca": "Shein",
+        "preco": "R$ 55,00",
+        "estilo": "esportiva"
+      },
+      {
+        "tipo": "camisa masculina",
+        "marca": "Shein",
+        "preco": "R$ 24,99",
+        "estilo": "esportiva"
+      },
+      {
+        "tipo": "masculino",
+        "marca": "Shein",
+        "preco": "R$ 89,90",
+        "estilo": "casual"
+      },
+
+
+      {
+        "tipo": "camisa masculina",
+        "marca": "Shein",
+        "preco": "R$ 45,00",
+        "estilo": "esportiva"
+      },
+
+      {
+        "tipo": "tenis unisex",
+        "marca": "Shein",
+        "preco": "R$ 220,00",
+        "estilo": "esportivo"
+      },
+
+      {
+        "tipo": "tenis femenino",
+        "marca": "Shein",
+        "preco": "R$ 125,90",
+        "estilo": "casual"
+      },
+
+      {
+        "tipo": "tenis femenino",
+        "marca": "Shein",
+        "preco": "R$ 150,00",
+        "estilo": "casual"
+      }
+  
+    ]
+  }
